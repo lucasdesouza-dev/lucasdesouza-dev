@@ -25,5 +25,4 @@
 ---
     
   ### :zap: Github Stats:
-    <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true" />
-
+    <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true"/>
