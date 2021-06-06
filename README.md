@@ -22,9 +22,10 @@
 <div>
 
     ###Frameworks and Tools:
+    <div class="display: flex; justify-content: space-between;">
       <img alt="VUE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-    
+    <div>
 ---
-  ### :zap: Github Stats
-<img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true" />
+  ### :zap: Github Stats:
+    <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true" />
 
