@@ -22,7 +22,7 @@
 <div>
 
     ###Frameworks and Tools:
-     <img alt="VUE" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg2.gratispng.com%2F20180730%2Ftua%2Fkisspng-vue-js-javascript-library-react-angularjs-hsv-logo-5b5ec7875b3ec4.1961775115329381193738.jpg&imgrefurl=https%3A%2F%2Fwww.gratispng.com%2Fpng-99nyqa%2F&tbnid=HyWJzFhKoDBvkM&vet=12ahUKEwjg7N2Ni4TxAhVgmZUCHVWBCcMQMygAegUIARCmAQ..i&docid=NxJxmZJrQuqXCM&w=900&h=600&q=vue.js%20sem%20fundo&client=opera-gx&ved=2ahUKEwjg7N2Ni4TxAhVgmZUCHVWBCcMQMygAegUIARCmAQ" />
+     <img alt="VUE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
     
 ---
   ### :zap: Github Stats
