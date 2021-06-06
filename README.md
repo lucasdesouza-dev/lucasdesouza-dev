@@ -1,4 +1,4 @@
-## Olá, sou o Lucas- também conhecido como Lusou  👋
+## Olá, sou o Lucas também conhecido como Lusou  👋
 
 - 👨🏻‍💻 Eu sou um developer Front-End.
 - 📚 Atualmente estou Estudando Vue.JS.
@@ -8,7 +8,7 @@
 
 ---
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 <div class="display: flex; justify-content: space-between;">
     <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -25,4 +25,4 @@
 ---
     
  ### :zap: Github Stats
-<img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=fabbrito&theme=vue-dark&show_icons=true&hide_border=true" />
+<img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusougamer&theme=vue-dark&show_icons=true&hide_border=true" />
