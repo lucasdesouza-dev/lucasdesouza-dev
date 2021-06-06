@@ -1,8 +1,8 @@
 ## Hi there, I'm Lucas- aka Lusou 👋
 
-## I'm an Electrical Engineer, a Dedicated Developer and a Hobbyist Gamer!
+## 
 
-- 🔭 I’m currently learning cyber security with CTFs wargames!
+- 🔭 Eu sou um developer Front-End.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects
 - ⚡ Fun fact: I love to play RimWorld, the best game ever created!
@@ -13,7 +13,7 @@
 ### Languages and Tools:
 
 <div class="display: flex; justify-content: space-between;">
-    <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visualstudio-code.png" />
+    <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
     <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
