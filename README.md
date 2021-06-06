@@ -21,7 +21,9 @@
     <img alt="Arduino" height="26px" src="https://github.com/kaeiel/kaeiel/blob/master/img/Arduino_Logo.svg">
     <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <div> 
+    
 ---
+    
   ### :zap: Github Stats:
     <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true" />
 
