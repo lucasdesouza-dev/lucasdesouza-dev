@@ -1,4 +1,4 @@
-## Hi there, I'm Lucas- aka Lusou 👋
+## Olá, sou o Lucas- também conhecido como Lusou  👋
 
 - 👨🏻‍💻 Eu sou um developer Front-End.
 - 📚 Atualmente estou Estudando Vue.JS.
@@ -21,8 +21,10 @@
     <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <div>
 
+    ###Frameworks and Tools:
+     <img alt="VUE" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg2.gratispng.com%2F20180730%2Ftua%2Fkisspng-vue-js-javascript-library-react-angularjs-hsv-logo-5b5ec7875b3ec4.1961775115329381193738.jpg&imgrefurl=https%3A%2F%2Fwww.gratispng.com%2Fpng-99nyqa%2F&tbnid=HyWJzFhKoDBvkM&vet=12ahUKEwjg7N2Ni4TxAhVgmZUCHVWBCcMQMygAegUIARCmAQ..i&docid=NxJxmZJrQuqXCM&w=900&h=600&q=vue.js%20sem%20fundo&client=opera-gx&ved=2ahUKEwjg7N2Ni4TxAhVgmZUCHVWBCcMQMygAegUIARCmAQ" />
+    
 ---
   ### :zap: Github Stats
 <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true" />
 
-    ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lusousouza&layout=compact&count_private=true)
