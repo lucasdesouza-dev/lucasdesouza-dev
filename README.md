@@ -6,7 +6,6 @@
 - 🕹️ Sou apaixonado por jogos digitais!
 - 🎓 Pretendo me formar em Engenharia de Software.
 
----
 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luccashsouza/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-souza-a6199b193/)
