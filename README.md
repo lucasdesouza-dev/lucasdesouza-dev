@@ -33,4 +33,3 @@
  ### :zap: Github Stats
 <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lusousouza&theme=vue-dark&show_icons=true&hide_border=true" />
     
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCz0YCKu-jSCTcsxrmh5TY5Q?label=Inscritos&style=social)
