@@ -3,8 +3,8 @@
 - 👨🏻‍💻 Eu sou um developer Front-End.
 - 📚 Atualmente estou Estudando React.js.
 - 👯 Estou procurando colaborar com projetos de código aberto.
-- 🕹️ Sou apaixonado por jogos digitais!
-- 🎓 Pretendo me formar em Engenharia de Software.
+- 🕹️ Sou apaixonado por jogos digitais! 
+- 🎓 Esudando Análise e desenvolvimento de sistemas, pretendo me especializar em Engenharia de Software.
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luccashsouza/)
