@@ -29,7 +29,7 @@
 <div> 
     
 ---
-    ## Projetos em andamentos
+## Projetos em Andamentos:
     Carrossel com React -> https://lucashenriquesouza.github.io/Carrossel-React/
     Tela de Login -> https://lucashenriquesouza.github.io/tela-login/
     
