@@ -29,9 +29,12 @@
 <div> 
     
 ---
-## :zap: Projetos em Andamentos:
-    Carrossel com React -> (https://lucashenriquesouza.github.io/Carrossel-React/)
-    Tela de Login -> (https://lucashenriquesouza.github.io/tela-login/)
+    
+### :zap: Projetos em Andamentos:
+<!--START_SECTION:activity-->
+1. [Carrossel com React](https://lucashenriquesouza.github.io/Carrossel-React/)
+2. [Tela de Login](https://lucashenriquesouza.github.io/tela-login/)
+<!--END_SECTION:activity-->
     
  ### :zap: Github Stats
 <img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lucashenriquesouza&theme=vue-dark&show_icons=true&hide_border=true" />
