@@ -30,10 +30,11 @@
     
 ---
     
-### :zap: Projetos em Andamentos:
+### :zap: Projetos 
 <!--START_SECTION:activity-->
 1. [Carrossel com React](https://lucashenriquesouza.github.io/Carrossel-React/)
 2. [Tela de Login](https://lucashenriquesouza.github.io/tela-login/)
+3. [Secret Word](https://lucashenriquesouza.github.io/secretword/)
 <!--END_SECTION:activity-->
     
  ### :zap: Github Stats
