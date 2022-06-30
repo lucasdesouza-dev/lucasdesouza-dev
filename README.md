@@ -35,6 +35,7 @@
 1. [Carrossel com React](https://lucashenriquesouza.github.io/Carrossel-React/)
 2. [Tela de Login](https://lucashenriquesouza.github.io/tela-login/)
 3. [Secret Word](https://lucashenriquesouza.github.io/secretword/)
+4. [Calculadora React](https://lucashenriquesouza.github.io/Calculadora/)
 <!--END_SECTION:activity-->
     
  ### :zap: Github Stats
