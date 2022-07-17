@@ -38,6 +38,8 @@
 2. [Tela de Login](https://lucashenriquesouza.github.io/tela-login/)
 3. [Secret Word](https://lucashenriquesouza.github.io/secretword/)
 4. [Calculadora React](https://lucashenriquesouza.github.io/Calculadora/)
+5. [The-Movies-App](https://the-movie-app-five.vercel.app)
+6. [Marvel-App](https://lucashenriquesouza.github.io/Marvel-App/)
 <!--END_SECTION:activity-->
     
  ### :zap: Github Stats
