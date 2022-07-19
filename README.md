@@ -40,8 +40,8 @@
 4. [Calculadora React](https://lucashenriquesouza.github.io/Calculadora/)
 5. [The-Movies-App](https://the-movie-app-five.vercel.app)
 6. [Marvel-App](https://lucashenriquesouza.github.io/Marvel-App/)
-
 7. [Secret Word](https://lucashenriquesouza.github.io/secretword/)
+8. [Barbearia Alura](https://lucashenriquesouza.github.io/Barbearia-Alura-Lucas/)
 
 <!--END_SECTION:activity-->
     
