@@ -46,5 +46,5 @@
 <!--END_SECTION:activity-->
     
  ### :zap: Github Stats
-<img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lucashenriquesouza&theme=vue-dark&show_icons=true&hide_border=true" />
+<img align="left" alt="lucas's Github Stats" src="https://github-readme-stats-eight-silk.vercel.app/api?username=lucasdesouza-dev&theme=vue-dark&show_icons=true&hide_border=true" />
     
