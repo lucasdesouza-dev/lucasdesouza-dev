@@ -12,6 +12,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luca.s.ouza@hotmail.com)
 
 ---
+### Insignias:
+<div class="display: flex; justify-content: space-between;">
+<img alt="one" width="300px" src="https://user-images.githubusercontent.com/55006206/184266667-a92a7b18-02c8-43f8-ad0c-bfbfd5ed7f34.png" />
+<div> 
 
 ### Linguagens e Ferramentas:
 
