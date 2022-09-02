@@ -13,8 +13,11 @@
 
 ---
 ### Insignias:
+- #### Oracle Next Education
+
 <div class="display: flex; justify-content: space-between;">
-<img alt="one" width="300px" src="https://user-images.githubusercontent.com/55006206/184266667-a92a7b18-02c8-43f8-ad0c-bfbfd5ed7f34.png" />
+<img alt="one" width="100px" src="https://user-images.githubusercontent.com/55006206/184266667-a92a7b18-02c8-43f8-ad0c-bfbfd5ed7f34.png" />
+    <img alt="one" width="100px" src="https://user-images.githubusercontent.com/55006206/188191418-25a42104-b7b9-4f92-ae02-d69199900e0e.png" />
 <div> 
 
 ### Linguagens e Ferramentas:
