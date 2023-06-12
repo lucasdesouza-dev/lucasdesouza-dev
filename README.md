@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas também conhecido como Lusou  👋
 
-- 👨🏻‍💻 Eu sou um developer Front-End.
-- 📚 Atualmente estou Estudando React.js.
+- 👨🏻‍💻 Eu sou um developer especialinta Front-End.
+- 📚 Atualmente estou Estudando Back-End.
 - 👯 Estou procurando colaborar com projetos de código aberto.
 - 🕹️ Sou apaixonado por jogos digitais! 
 - 🎓 Esudando Análise e desenvolvimento de sistemas, pretendo me especializar em Engenharia de Software.
